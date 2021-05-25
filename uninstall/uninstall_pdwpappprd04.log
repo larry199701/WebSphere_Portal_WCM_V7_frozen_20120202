@@ -1,0 +1,83 @@
+The current hostname is: pdwpappprd04, The intended hostname is: pdwpappprd04
+The current directory is: /backup/portal/wcmv7/a420018/uninstall
+Are you sure to uninstall WebSphere Portal/WCM V7 from pdwpappprd04?   (y/n)
+The Uninstall will takes 7 minutes
+ 
+Starting Datetime: Mon Jul 2 09:00:12 EDT 2012
+/usr/lib/objrepos/vpd.properties
+tail -f /tmp/wpinstalllog.txt
+du -gs /optware/IBM 3.81 GB
+uninstall wcm take about 6 minutes
+topas
+kill: 7340090: 0403-003 The specified process does not exist.
+./uninstallwcm.ksh[74]: kill: 0403-008 The number of parameters specified is not correct.
+./uninstallwcm.ksh[75]: kill: 0403-008 The number of parameters specified is not correct.
+kill: 7340098: 0403-003 The specified process does not exist.
+(Jul 2, 2012 9:03:49 AM), Process, com.ibm.ws.install.ni.ismp.mediaspanning.InstallNIFMaintenanceMediaSpanning, msg1, Uninstalling component: security.impl.nd, percent complete: 98%
+(Jul 2, 2012 9:03:49 AM), Process, com.ibm.ws.install.ni.ismp.mediaspanning.InstallNIFMaintenanceMediaSpanning, msg1, Uninstalling component: sib.output.nd, percent complete: 99%
+(Jul 2, 2012 9:03:50 AM), Process, com.ibm.ws.install.ni.ismp.mediaspanning.InstallNIFMaintenanceMediaSpanning, msg1, Uninstalling component: legal, percent complete: 99%
+(Jul 2, 2012 9:03:50 AM), Process, com.ibm.ws.install.ni.ismp.mediaspanning.InstallNIFMaintenanceMediaSpanning, msg1, Uninstalling component: nif.componentmap.primary, percent complete: 99%
+(Jul 2, 2012 9:03:50 AM), Process, com.ibm.ws.install.ni.ismp.mediaspanning.InstallNIFMaintenanceMediaSpanning, msg1, Uninstalling component: install.msl, percent complete: 99%
+(Jul 2, 2012 9:03:50 AM), Process, com.ibm.ws.install.ni.ismp.mediaspanning.InstallNIFMaintenanceMediaSpanning, msg1, Uninstalling component: cii_com.ibm.wplc.was_7.0.0.11, percent complete: 99%
+(Jul 2, 2012 9:03:54 AM), Process, com.ibm.ws.install.ni.ismp.mediaspanning.InstallNIFMaintenanceMediaSpanning, msg1, Current install/uninstall process is successful. Process type is: uninstall
+(Jul 2, 2012 9:03:54 AM), Process, com.ibm.ws.install.ni.ismp.actions.SettleNIFRegistryAction, msg1, Current install/uninstall process is successful. Process type is: uninstall
+(Jul 2, 2012 9:03:54 AM), Process, com.ibm.ws.install.ni.ismp.actions.SetExitCodeAction, msg1, CWUPI0000I: EXITCODE=0
+(Jul 2, 2012 9:03:54 AM), Process, com.ibm.ws.install.ni.ismp.actions.ISMPLogSuccessMessageAction, msg1, INSTCONFSUCCESS
+WNIF0001I: Cleanup is successful.
+
+WNIF0100I: Copyright (c) IBM Corporation 2006; All rights reserved.
+WNIF0102I: Install registry reporter version 1.11
+
+----------------------------------------------------------------------------
+IBM WebSphere Application Server Install Registry Report
+----------------------------------------------------------------------------
+
+Report at date and time July 2, 2012 9:04:00 AM EDT
+
+----------------------------------------------------------------------------
+
+Product Installed
+----------------------------------------------------------------------------
+No products are available.
+
+----------------------------------------------------------------------------
+End Install Registry Report
+----------------------------------------------------------------------------
+
+WNIF0100I: Copyright (c) IBM Corporation 2006; All rights reserved.
+WNIF0102I: Install registry reporter version 1.11
+
+----------------------------------------------------------------------------
+IBM WebSphere Application Server Install Registry Report
+----------------------------------------------------------------------------
+
+Report at date and time July 2, 2012 9:04:01 AM EDT
+
+----------------------------------------------------------------------------
+
+Package Installed
+----------------------------------------------------------------------------
+No packages are available.
+
+----------------------------------------------------------------------------
+End Install Registry Report
+----------------------------------------------------------------------------
+ksh: /optware/IBM/ITM/bin/itmcmd:  not found.
+ksh: /optware/IBM/ITM/bin/itmcmd:  not found.
+chown: /optware/IBM/ITM: A file or directory in the path name does not exist.
+./uninstallwcm.ksh[111]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[112]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[113]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[114]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[115]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[116]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[117]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[118]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[119]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[120]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[121]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[122]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[123]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[124]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[125]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
+./uninstallwcm.ksh[126]: /optware/IBM/ITM/bin/uninstall.sh:  not found.
